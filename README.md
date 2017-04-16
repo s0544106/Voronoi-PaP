@@ -8,7 +8,7 @@ Dieses Projekt wurde unter Arch Linux in der Programmiersprache C erstellt.
 
 Installation
 ----------------
-Dieses Programm beötigt ausser den Standartbibliotheken noch die <GL/glut.h>.
+Dieses Programm benötigt ausser den Standartbibliotheken noch die <GL/glut.h>.
 Hierfür ist es notwendig, dass OpenGL auf dem System installiert ist.
 
 Anschliessend kann das Programm als zip geladen, oder mit folgendem Befehl heruntergeladen werden
@@ -21,7 +21,7 @@ Anwendung
 ----------------
 Der Voronoi-Generator liest bestimmte Werte aus einer beiliegenden Textdatei und wird daher wie folgt gestartet:
 
-./voronoi coordinates900
+./voronoi coordinates900.txt
 
-Nun kann den Anweisungen auf dem Bildschirm gefolgt, und Voronoi-Diagramme erstellt werden
+Nun können den Anweisungen auf dem Bildschirm gefolgt, und Voronoi-Diagramme erstellt werden
 
